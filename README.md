@@ -13,17 +13,17 @@ I used charts and interactive filters to make it easier to explore the data and 
 * **Region and Marital Status:** Compared the distribution of married and single customers across regions.
 * **Interactive Filtering:** Added slicers for occupation, home ownership, gender and commute distance to explore different segments of the dataset.
 
-##Key Findings
+## Key Findings
 
-1. Middle-aged customers account for the highest number of bike purchases. The chart shows approximately 380 purchases in this age group, considerably more than among adolescents or older customers.
+**1.** Middle-aged customers account for the highest number of bike purchases. The chart shows approximately 380 purchases in this age group, considerably more than among adolescents or older customers.
 
-2. Older customers have more recorded non-purchases than purchases. The chart shows approximately 130 customers who did not purchase a bike, compared with around 60 who did.
+**2.** Older customers have more recorded non-purchases than purchases. The chart shows approximately 130 customers who did not purchase a bike, compared with around 60 who did.
 
-3. North America has the highest customer counts in the regional comparison. It has approximately 295 married customers and 210 single customers, noticeably more than Europe or the Pacific.
+**3.** North America has the highest customer counts in the regional comparison. It has approximately 295 married customers and 210 single customers, noticeably more than Europe or the Pacific.
 
-4. The marital-status distribution differs by region. In North America, married customers substantially outnumber single customers. In Europe and the Pacific, the counts for the two groups are much closer.
+**4.** The marital-status distribution differs by region. In North America, married customers substantially outnumber single customers. In Europe and the Pacific, the counts for the two groups are much closer.
 
-5. The income and occupation chart shows variation across customer groups. The plotted values differ considerably across income levels and occupations, suggesting that the customer profile varies across these categories. However, the screenshot alone isn't clear enough to identify a reliable income threshold or a specific occupation that drives bike purchases.
+**5.** The income and occupation chart shows variation across customer groups. The plotted values differ considerably across income levels and occupations, suggesting that the customer profile varies across these categories. However, the screenshot alone isn't clear enough to identify a reliable income threshold or a specific occupation that drives bike purchases.
 
 ## Tools Used
 
