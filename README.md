@@ -13,6 +13,7 @@ I used charts and interactive filters to make it easier to explore the data and 
 * **Region and Marital Status:** Compared the distribution of married and single customers across regions.
 * **Interactive Filtering:** Added slicers for occupation, home ownership, gender and commute distance to explore different segments of the dataset.
 
+![Alt Text](Bike.png)
 ## Key Findings
 
 **1.** Middle-aged customers account for the highest number of bike purchases. The chart shows approximately 380 purchases in this age group, considerably more than among adolescents or older customers.
